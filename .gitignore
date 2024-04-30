@@ -1,0 +1,2 @@
+.terraform*
+modules/.DS_Store
